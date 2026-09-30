@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "30 Sep, 12:46 AM",
+    "total": 3,
+    "higher": 2,
+    "lower": 1
+  },
+  {
+    "timestamp": "30 Sep, 12:41 AM",
+    "total": 1025,
+    "higher": 807,
+    "lower": 218
+  },
+  {
+    "timestamp": "29 Sep, 04:43 PM",
+    "total": 1025,
+    "higher": 807,
+    "lower": 218
+  }
+]
